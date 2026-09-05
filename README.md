@@ -16,20 +16,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Technologies
 
 <div>
-<code><img width="32" height="32" src="./assets/Python.png"/></code>&nbsp;
-<code><img width="32" height="32" src="./assets/Go.png"/></code>&nbsp;
-<code><img width="32" height="32" src="./assets/C.png"/></code>&nbsp;
-<code><img width="32" height="32" src="./assets/Java.png"/></code>&nbsp;
-<code><img width="32" height="32" src="./assets/Spring.png"/></code>&nbsp;
-<code><img width="32" height="32" src="./assets/Node.js.png"/></code>&nbsp;
-<code><img width="32" height="32" src="./assets/React.png"/></code>&nbsp;
-<code><img width="32" height="32" src="./assets/MongoDB.png"/></code>&nbsp;
-<code><img width="32" height="32" src="./assets/PostgresSQL.png"/></code>&nbsp;
-<code><img width="32" height="32" src="./assets/MySQL.png"/></code>&nbsp;
-<code><img width="32" height="32" src="./assets/Docker.png"/></code>&nbsp;
-<code><img width="32" height="32" src="./assets/RabbitMQ.png"/></code>&nbsp;
-<code><img width="32" height="32" src="./assets/Git.png"/></code>&nbsp;
-<code><img width="32" height="32" src="./assets/Linux.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/Python.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/Go.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/C.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/Java.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/Spring.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/Node.js.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/React.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/MongoDB.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/PostgresSQL.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/MySQL.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/Docker.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/RabbitMQ.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/Git.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/Linux.png"/></code>&nbsp;
 </div>
 
 ---
