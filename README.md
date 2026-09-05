@@ -11,9 +11,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <a href="#" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
----
 
-### Technologies
+## Technologies
 
 <div>
 <img width="40" height="40" src="./assets/Python.png"/></code>&nbsp;
@@ -32,8 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="40" height="40" src="./assets/Linux.png"/></code>&nbsp;
 </div>
 
----
-### GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
