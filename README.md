@@ -9,6 +9,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <a href="#" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="#" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="#" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+    <a href="#" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-PORTFOLIO-8A2BE2?style=for-the-badge"/></a>
+
 </p>
 
 
@@ -17,11 +19,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div>
 <img width="40" height="40" src="./assets/Python.png"/></code>&nbsp;
 <img width="40" height="40" src="./assets/Go.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/C.png"/></code>&nbsp;
 <img width="40" height="40" src="./assets/Java.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/Spring.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/C.png"/></code>&nbsp;
 <img width="40" height="40" src="./assets/Node.js.png"/></code>&nbsp;
 <img width="40" height="40" src="./assets/React.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/Spring.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/TailwindCSS.png"/></code>&nbsp;
 <img width="40" height="40" src="./assets/MongoDB.png"/></code>&nbsp;
 <img width="40" height="40" src="./assets/PostgresSQL.png"/></code>&nbsp;
 <img width="40" height="40" src="./assets/MySQL.png"/></code>&nbsp;
