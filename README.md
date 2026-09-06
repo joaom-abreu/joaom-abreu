@@ -1,8 +1,8 @@
 # João Abreu
 
-**`Lorem Ipsum`**
+**`Software Engineering Student`**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+Hi there! My name is João Mário and I'm a Software Engineering student passionate about backend development, system architecture, and clean code. My primary focus is building solutions using Go and Python. Through my academic journey, I've also built a strong foundation in Java. Always eager to learn and take on new challenges.
 
 <p align="left">
     </table>
@@ -17,21 +17,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Technologies
 
 <div>
-<img width="40" height="40" src="./assets/Python.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/Go.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/Java.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/C.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/Node.js.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/React.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/Spring.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/TailwindCSS.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/MongoDB.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/PostgresSQL.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/MySQL.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/Docker.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/RabbitMQ.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/Git.png"/></code>&nbsp;
-<img width="40" height="40" src="./assets/Linux.png"/></code>&nbsp;
+<img width="40" height="40" src="./assets/Python.png"/>
+<img width="40" height="40" src="./assets/Go.png"/>
+<img width="40" height="40" src="./assets/Java.png"/>
+<img width="40" height="40" src="./assets/C.png"/>
+<img width="40" height="40" src="./assets/Node.js.png"/>
+<img width="40" height="40" src="./assets/React.png"/>
+<img width="40" height="40" src="./assets/Spring.png"/>
+<img width="40" height="40" src="./assets/TailwindCSS.png"/>
+<img width="40" height="40" src="./assets/MongoDB.png"/>
+<img width="40" height="40" src="./assets/PostgresSQL.png"/>
+<img width="40" height="40" src="./assets/MySQL.png"/>
+<img width="40" height="40" src="./assets/Docker.png"/>
+<img width="40" height="40" src="./assets/RabbitMQ.png"/>
+<img width="40" height="40" src="./assets/Git.png"/>
+<img width="40" height="40" src="./assets/Linux.png"/>
 </div>
 
 ## GitHub Stats
