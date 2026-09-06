@@ -2,7 +2,7 @@
 
 **`Software Engineering Student`**
 
-Hi there! My name is João Mário and I'm a Software Engineering student passionate about backend development, system architecture, and clean code. My primary focus is building solutions using Go and Python. Through my academic journey, I've also built a strong foundation in Java. Always eager to learn and take on new challenges.
+Hi there! My name is João Mário and I'm a Software Engineering student at PUC Minas passionate about backend development, system architecture, and clean code. My primary focus is building solutions using Go and Python. Through my academic journey, I've also built a strong foundation in Java. Always eager to learn and take on new challenges.
 
 <p align="left">
     </table>
