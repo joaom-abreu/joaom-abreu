@@ -36,29 +36,38 @@ Hi there! My name is João Mário and I'm a Software Engineering student at PUC 
 
 ## GitHub Stats
 
-<p align="center">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaom-abreu&theme=github_dark">
+          <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaom-abreu&theme=github">
+          <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaom-abreu&theme=github_dark"/>
+        </picture>
+      </td>
+      <td align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaom-abreu&theme=github_dark">
+          <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaom-abreu&theme=github">
+          <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaom-abreu&theme=github_dark"/>
+        </picture>
+      </td>
+      <td align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaom-abreu&theme=github_dark">
+          <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaom-abreu&theme=github">
+          <img alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaom-abreu&theme=github_dark"/>
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaom-abreu&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaom-abreu&theme=github">
-    <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaom-abreu&theme=github_dark"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaom-abreu&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaom-abreu&theme=github">
-    <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaom-abreu&theme=github_dark"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaom-abreu&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaom-abreu&theme=github">
-    <img alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaom-abreu&theme=github_dark" align="right"/>
-  </picture>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake.gif">
-</picture>
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake.gif">
+    </picture>
+</div>
