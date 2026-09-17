@@ -32,37 +32,23 @@
 ## GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaom-abreu&theme=github_dark">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaom-abreu&theme=github">
-          <img alt="GitHub Stats" width="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaom-abreu&theme=github_dark"/>
-        </picture>
-      </td>
-      <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaom-abreu&theme=github_dark">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaom-abreu&theme=github">
-          <img alt="GitHub Top Langs" width="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joaom-abreu&theme=github_dark"/>
-        </picture>
-      </td>
-      <td align="center">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaom-abreu&theme=github_dark">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaom-abreu&theme=github">
-          <img alt="GitHub Details" width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaom-abreu&theme=github_dark"/>
-        </picture>
-      </td>
-    </tr>
-  </table>
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=joaom-abreu&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=light_github">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=joaom-abreu&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github">
+        <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=joaom-abreu&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=joaom-abreu&layout=compact&theme=light_github">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=joaom-abreu&layout=compact&theme=dark_github">
+        <img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=joaom-abreu&layout=compact&theme=dark_github">
+    </picture>
 </div>
+
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake-dark.svg">
+    <img width="100%" alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake-dark.svg">
     </picture>
 </div>
