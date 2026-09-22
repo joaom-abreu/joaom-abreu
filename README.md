@@ -31,16 +31,16 @@
 
 ## GitHub Stats
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=joaom-abreu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BF7AF0&icon_color=8A2BE2&text_color=C9D1D9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=joaom-abreu&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=8A2BE2&icon_color=8A2BE2&text_color=333333">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=joaom-abreu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BF7AF0&icon_color=8A2BE2&text_color=C9D1D9" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=joaom-abreu&layout=compact&hide_border=true&bg_color=0D1117&title_color=BF7AF0&text_color=C9D1D9">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=joaom-abreu&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=8A2BE2&text_color=333333">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaom-abreu&layout=compact&hide_border=true&bg_color=0D1117&title_color=BF7AF0&text_color=C9D1D9" alt="Top Languages"/>
-  </picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=joaom-abreu&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=light_github&title_color=800080&icon_color=800080">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=joaom-abreu&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github&title_color=800080&icon_color=800080">
+    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=joaom-abreu&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github&title_color=800080&icon_color=800080">
+</picture>
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=joaom-abreu&layout=compact&theme=light_github&title_color=800080">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=joaom-abreu&layout=compact&theme=dark_github&title_color=800080">
+    <img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=joaom-abreu&layout=compact&theme=dark_github&title_color=800080">
+</picture>
 </div>
 
 <div align="center">
