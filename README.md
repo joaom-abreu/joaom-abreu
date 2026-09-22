@@ -30,25 +30,23 @@
 </div>
 
 ## GitHub Stats
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=joaom-abreu&show_icons=true&theme=default&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joaom-abreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaom-abreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=joaom-abreu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BF7AF0&icon_color=8A2BE2&text_color=C9D1D9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=joaom-abreu&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=8A2BE2&icon_color=8A2BE2&text_color=333333">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=joaom-abreu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BF7AF0&icon_color=8A2BE2&text_color=C9D1D9" alt="GitHub Stats"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaom-abreu&layout=compact&theme=default">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaom-abreu&layout=compact&theme=tokyonight">
-    <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaom-abreu&layout=compact&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=joaom-abreu&layout=compact&hide_border=true&bg_color=0D1117&title_color=BF7AF0&text_color=C9D1D9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=joaom-abreu&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=8A2BE2&text_color=333333">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaom-abreu&layout=compact&hide_border=true&bg_color=0D1117&title_color=BF7AF0&text_color=C9D1D9" alt="Top Languages"/>
   </picture>
 </div>
 
-
 <div align="center">
-    <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake-dark.svg">
-    <img width="100%" alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake-dark.svg">
-    </picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake-dark.svg">
+  <img width="100%" alt="github-contribution-grid-snake-animation" src="https://raw.githubusercontent.com/joaom-abreu/joaom-abreu/output/github-contribution-grid-snake-dark.svg">
+</picture>
 </div>
