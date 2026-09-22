@@ -32,16 +32,16 @@
 ## GitHub Stats
 
 <div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=joaom-abreu&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=light_github">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=joaom-abreu&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github">
-        <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=joaom-abreu&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github">
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=joaom-abreu&layout=compact&theme=light_github">
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=joaom-abreu&layout=compact&theme=dark_github">
-        <img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=joaom-abreu&layout=compact&theme=dark_github">
-    </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=joaom-abreu&show_icons=true&theme=default&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joaom-abreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=joaom-abreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaom-abreu&layout=compact&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joaom-abreu&layout=compact&theme=tokyonight">
+    <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaom-abreu&layout=compact&theme=tokyonight"/>
+  </picture>
 </div>
 
 
