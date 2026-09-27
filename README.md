@@ -1,6 +1,6 @@
 # João Abreu
 
-`Software Engineering Student at PUC Minas, interested in backend development`
+Software Engineering Student at PUC Minas, interested in backend development
 
 <p align="left">
     <a href="#" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-PORTFOLIO-8A2BE2?style=for-the-badge"/></a>
