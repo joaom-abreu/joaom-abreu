@@ -30,33 +30,14 @@
 ## GitHub Stats
 <div align="center">
 <picture>
-    <source
-        media="(prefers-color-scheme: light)"
-        srcset="./profile/stats-light.svg"
-    >
-    <source
-        media="(prefers-color-scheme: dark)"
-        srcset="./profile/stats-dark.svg"
-    >
-    <img
-        alt="GitHub Stats"
-        src="./profile/stats-dark.svg"
-    >
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=joaom-abreu&hide_rank=true&hide_title=true&show_icons=true&theme=light_github">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=joaom-abreu&hide_rank=true&hide_title=true&show_icons=true&theme=dark_github">
+    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=joaom-abreu&hide_rank=true&hide_title=true&show_icons=true&theme=dark_github">
 </picture>
-
 <picture>
-    <source
-        media="(prefers-color-scheme: light)"
-        srcset="./profile/top-langs-light.svg"
-    >
-    <source
-        media="(prefers-color-scheme: dark)"
-        srcset="./profile/top-langs-dark.svg"
-    >
-    <img
-        alt="Most Used Languages"
-        src="./profile/top-langs-dark.svg"
-    >
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=joaom-abreu&layout=compact&theme=light_github">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=joaom-abreu&layout=compact&theme=dark_github">
+    <img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=joaom-abreu&layout=compact&theme=dark_github">
 </picture>
 </div>
 
